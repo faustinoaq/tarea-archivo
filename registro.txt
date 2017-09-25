@@ -1,0 +1,15 @@
+Juan 1200.00 3
+Carlos 1100.45 2
+Maria 2030.00 5
+Iris 700.00 1
+Luis 3916.00 7
+Carmen 3471.00 10
+Carlos 801.00 10
+Manuel 3840.00 2
+Luisa 796.00 3
+Karla 2194.00 9
+Jairo 772.00 8
+Mario 3937.00 5
+Pedro 4633.00 3
+Ernesto 1116.00 2
+Faustino 4001.00 10
